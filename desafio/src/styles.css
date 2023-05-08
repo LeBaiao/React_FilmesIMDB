@@ -1,0 +1,29 @@
+
+.App{
+    height: 100vh;
+    display: flex;
+    background: linear-gradient(#121212, #212B46);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title{
+    font-size: 45px;
+    color: #FFF;
+}
+
+.listaFilme{
+    color:#dacc0f;
+}
+.dadosTabela{
+    color: #FFF
+}
+.nomeInput{
+    color: #e4c620
+}
+.nomeFiltrado{
+    color: #4169E1
+}
+.deleteButton{
+    color: purple;
+}
